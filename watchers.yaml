@@ -624,19 +624,6 @@ jhgoh:
 - Validation/RecoMuon
 - Validation/RPCRecHits
 - Validation/MuonRPCDigis
-jlagram:
-- RecoLocalTracker/ClusterParameterEstimator
-- RecoLocalTracker/Configuration
-- RecoLocalTracker/Records
-- RecoLocalTracker/SiStrip
-- RecoLocalTracker/SubCollectionProducers
-- CalibTracker/SiStrip
-- CalibTracker/Configuration
-- CalibTracker/Records
-- SimTracker/SiStripDigitizer
-- SimTracker/Common
-- SimTracker/Configuration
-- SimTracker/Records
 kkrajczar:
 - Validation/RecoHI
 kurtejung:
